@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Daniel! 👋
 
-<!--
-**Daniel-leiken/Daniel-leiken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Website Developing. I love creating innovative solutions and working on exciting projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as Wordpress Developer
+- 🌱 I’m currently studying Front End Developement at Noroff University
+- 💬 Ask me about any Wordpress related stuff
+- ⚡ Fun fact: The first website ever created is still live today! Visit it at info.cern.ch.
+
+## Skills
+
+### Languages
+- HTML
+- CSS
+- JavaScript
+- PHP
+
+### Frameworks & Libraries
+- React.js
+- Bootstrap
+- Tailwind
+- Next.js
+
+### Tools & Platforms
+- Git & GitHub
+- Netlify
+- Visual Studio Code
+
+## Get in Touch
+
+- [LinkedIn](https://linkedin.com/in/daniel-strandheim)
+
