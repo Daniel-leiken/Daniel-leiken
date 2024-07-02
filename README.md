@@ -31,4 +31,5 @@ Welcome to my GitHub profile! I'm a passionate developer from a small town in No
 ## Get in Touch
 
 - [LinkedIn](https://linkedin.com/in/daniel-strandheim)
+- [Email](mailto:daniel.strandheim@kompanikvam.no)
 
