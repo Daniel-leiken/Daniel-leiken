@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in Website Developing. I love creating innovative solutions and working on exciting projects.
+Welcome to my GitHub profile! I'm a passionate developer from a small town in Norway with a keen interest in Website Developing. I love creating innovative solutions and working on exciting projects.
 
 ## About Me
 
